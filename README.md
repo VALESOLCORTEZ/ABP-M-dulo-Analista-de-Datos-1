@@ -12,4 +12,6 @@ En relación con la congestión vehicular, el análisis evidenció que el 35,8% 
 
 Por otra parte, el análisis territorial permitió identificar diferencias significativas entre barrios. Los cruces entre barrio y nivel de congestión mostraron que determinados sectores concentran una mayor cantidad de eventos de congestión elevada, lo que confirma que el fenómeno no se distribuye de manera homogénea dentro de la ciudad y que existen zonas particularmente vulnerables a los embotellamientos.
 
-Finalmente, el estudio de las demoras asociadas a incidentes viales permi
+Finalmente, el estudio de las demoras asociadas a incidentes viales permitió observar que la presencia de accidentes u obras en la vía incrementa los tiempos de desplazamiento respecto de las situaciones sin incidentes registrados, evidenciando el impacto que estos eventos tienen sobre la fluidez del tránsito.
+
+En conjunto, los resultados obtenidos permiten transformar datos operativos de circulación vehicular en información estadísticamente fundamentada para comprender mejor la dinámica del tránsito urbano. El análisis desarrollado constituye una base sólida para futuros estudios predictivos y para la formulación de estrategias orientadas a optimizar la movilidad y reducir los niveles de congestión en la ciudad de Córdoba.
